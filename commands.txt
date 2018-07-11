@@ -1,0 +1,9 @@
+git checkout <branch name>
+
+git checkout -b <branch name> // create new branch
+
+git push origin <branchOne> // created new branch at server
+
+git commit - m ""
+
+git push origion <branch name> // your local should required same branch
